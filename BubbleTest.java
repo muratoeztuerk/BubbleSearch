@@ -1,3 +1,12 @@
+/**
+ * 
+ * @author Murat Öztürk
+ * Aufgabe: Sortieralgorithmen
+ * Schreiben Sie einen Bubble-Sortieralgorithmus, der ein Array mit integers rückwärts sortiert!
+ * 
+ * 
+ */
+
 public class BubbleTest {
 
 	public static void main(String[] args) {
